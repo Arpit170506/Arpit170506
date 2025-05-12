@@ -8,8 +8,7 @@ Currently building cool stuff, one repo at a time.
 
 ### 🛠️ Tech I Tinker With  
 - HTML, CSS, JavaScript (and sometimes they even listen)
-- Python 🐍, C++ 🚀  
-- Dipping toes into Solana, Solidity & smart contracts
+- Python 🐍, C++ 🚀 
 
 ---
 
